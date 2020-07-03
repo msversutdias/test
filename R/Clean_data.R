@@ -1,0 +1,1 @@
+data<-data.frame(y=rnorm(10),x=rnorm(10))
